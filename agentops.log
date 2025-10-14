@@ -1,0 +1,5 @@
+2025-10-14 11:31:22,954 - INFO - Agno instrumentation: Beginning immediate instrumentation
+2025-10-14 11:31:24,130 - INFO - Agno instrumentation: Successfully wrapped 9 methods
+2025-10-14 11:31:24,131 - INFO - Agno instrumentation: Immediate instrumentation completed successfully
+2025-10-14 11:31:24,139 - INFO - Session Replay for default trace: https://app.agentops.ai/sessions?trace_id=8e92e0a53f1ba4139140fca212836b63
+2025-10-14 11:31:32,512 - INFO - Session Replay for default.session trace: https://app.agentops.ai/sessions?trace_id=8e92e0a53f1ba4139140fca212836b63
